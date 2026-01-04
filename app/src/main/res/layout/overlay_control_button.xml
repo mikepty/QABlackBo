@@ -6,7 +6,6 @@
     android:elevation="8dp"
     app:cardCornerRadius="28dp"
     app:cardBackgroundColor="#CC000000">
-
     <ImageView
         android:id="@+id/btn_record"
         android:layout_width="40dp"
@@ -16,5 +15,4 @@
         android:contentDescription="@string/record_button"
         android:scaleType="fitCenter"
         android:tint="@android:color/holo_red_light" />
-
 </androidx.cardview.widget.CardView>
