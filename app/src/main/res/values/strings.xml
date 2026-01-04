@@ -1,1 +1,14 @@
 
+<resources>
+    <string name="app_name">QA BlackBox</string>
+    <string name="record_button">Record Button</string>
+    <string name="accessibility_service_description">
+        Servicio que captura interacciones de usuario (toques, texto, scrolls) 
+        para análisis de pruebas de QA. Los datos permanecen en el dispositivo.
+        
+        IMPORTANTE: Este servicio redacta automáticamente las contraseñas.
+    </string>
+    
+    <string name="notification_recording">Grabando sesión de prueba</string>
+    <string name="notification_stop">Detener</string>
+</resources>
